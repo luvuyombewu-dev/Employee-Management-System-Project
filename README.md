@@ -145,18 +145,6 @@ jdbc:mysql://localhost:3306/employee_database
 
 ---
 
-# 📸 Screenshots
-
-Add screenshots of:
-
-- Login screen
-- Dashboard
-- Employee management page
-- Attendance section
-- Salary section
-
----
-
 # 🎯 Skills Demonstrated
 
 This project demonstrates:
