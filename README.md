@@ -1,4 +1,4 @@
-# 🏢 Employee Management System
+#  Employee Management System
 
 A **JavaFX desktop application** designed to manage employee records, salaries, and attendance efficiently.
 
@@ -6,7 +6,7 @@ This project demonstrates practical software development concepts including **Ob
 
 ---
 
-# 📌 Project Overview
+#  Project Overview
 
 The Employee Management System provides a user-friendly desktop interface for managing employee information.
 
@@ -16,9 +16,9 @@ This project was created to strengthen my skills in Java development, GUI progra
 
 ---
 
-# ✨ Features
+#  Features
 
-## 👥 Employee Management
+##  Employee Management
 
 - Add new employee records
 - Update employee information
@@ -26,25 +26,25 @@ This project was created to strengthen my skills in Java development, GUI progra
 - View employee details
 - Search employee records
 
-## 💰 Salary Management
+##  Salary Management
 
 - Store employee salary information
 - Manage employee payment details
 - Display salary-related information
 
-## 📅 Attendance Management
+##  Attendance Management
 
 - Record employee attendance
 - Track employee attendance information
 
-## 🖥️ User Interface
+##  User Interface
 
 - JavaFX graphical user interface
 - Custom UI design
 - Interactive forms
 - User-friendly navigation
 
-## 🗄️ Database Integration
+##  Database Integration
 
 - MySQL database support
 - JDBC database connectivity
@@ -56,7 +56,7 @@ This project was created to strengthen my skills in Java development, GUI progra
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 ## Programming Language
 
@@ -82,7 +82,7 @@ This project was created to strengthen my skills in Java development, GUI progra
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```text
 Employee-Management-System-Project/
@@ -102,7 +102,7 @@ Employee-Management-System-Project/
 
 ---
 
-# ⚙️ Installation & Setup
+#  Installation & Setup
 
 ## Requirements
 
@@ -145,7 +145,7 @@ jdbc:mysql://localhost:3306/employee_database
 
 ---
 
-# 🎯 Skills Demonstrated
+#  Skills Demonstrated
 
 This project demonstrates:
 
@@ -160,7 +160,7 @@ This project demonstrates:
 
 ---
 
-# 🔮 Future Improvements
+#  Future Improvements
 
 Possible improvements:
 
@@ -173,7 +173,7 @@ Possible improvements:
 
 ---
 
-# 👨‍💻 Developer
+#  Developer
 
 **Luvuyo Mbewu**
 
@@ -181,8 +181,8 @@ Computer Engineering Graduate | Software Developer
 
 ---
 
-# 📜 License
+#  License
 
 This project is licensed under the MIT License.
 
-⭐ If you find this project useful, consider giving it a star.
+If you find this project useful, consider giving it a star.
